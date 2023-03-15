@@ -28,4 +28,5 @@ With this data, the program should output the Prufer code:
 ```bash
 6 0 2 6 2 9 9 2
 ```
+## Solution
 
